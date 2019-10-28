@@ -12,7 +12,7 @@ public class DBCon {
 	static {
 		URL = "jdbc:oracle:thin:@localhost:1521:xe";
 		ID = "BDI";
-		PWD = "12345678";
+		PWD = "a1a2a3a4a5";
 		DRIVER_NAME = "oracle.jdbc.driver.OracleDriver";
 		try {
 			Class.forName(DRIVER_NAME);
